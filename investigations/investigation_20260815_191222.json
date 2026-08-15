@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-15T19:12:22.568231",
+  "query": "sex toucher",
+  "refined_query": "toucher sex",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\nsex toucher\n\n## Source Links Referenced for Analysis\n- No source links provided for analysis\n\n## Investigation Artifacts\n- No artifacts found in the provided input\n\n## Key Insights\n- No insights can be generated from the provided input\n\n## Next Steps\n- Investigate further by providing more data or source links"
+}

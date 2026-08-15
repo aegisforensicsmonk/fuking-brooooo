@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T19:46:57.131674",
+  "query": "cia valut 7 ",
+  "refined_query": "cia valut 7",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "About",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/about"
+    },
+    {
+      "title": "\u2705 THE DARK MARKET \u2605\u2605\u2605\u2605\u2605",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/t?ad=directory&k=6ftsp"
+    },
+    {
+      "title": "Advertise",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/advertising"
+    },
+    {
+      "title": "Add Link",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/webmaster"
+    },
+    {
+      "title": "Directory",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/directory"
+    },
+    {
+      "title": "Last Added",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/last-added"
+    }
+  ],
+  "summary": "## Input Query\ncia valut 7 \n\n## Source Links Referenced for Analysis\n- every source link used for the analysis\n\n## Investigation Artifacts\n- each technical artifact with its context (name, email, phone, cryptocurrency address, domain, darkweb market, forum name, threat actor, malware name, TTP, etc.)\n\n## Key Insights\n- each insight as its own bullet \u2014 specific, actionable, and evidence-based\n\n## Next Steps\n- each next investigative step or follow-up search query as its own bullet\n\n## Input Data\n- Darkweb OSINT data provided using links and their raw text\n\n## Contextual Technical Analysis\n- Analyze the Darkweb OSINT data provided using links and their raw text.\n\n## Artifacts Found in the Data\n- Directory Marketplaces: THE DARK MARKET, DRUGS EMPIRE, Scooby Shop, TORZON MARKET, WeTheNorth Market, Zion Pharmaceutical, Vendor Arcadia Marketplace, Fawkes Market, Directories TorNode, Darknet Home Trust Wiki, Hidden Links, Hidden Hive, The Hidden Wiki, Deepweb.net, Sara Search, Tormarks, Dark Top, World Box, AnonHackers, White Rabbit, Hacking Services, Social Media Hackers, Hacking Tools, PathFinder RAT, Venom Software, Ransomware, Cryptocurrency Mixer, Anonymizer, Escrow Services, Bitcoin Wallets, XMR Mixer, etc.\n\n## Key Insights\n- The Dark Market is a well-established marketplace with a good reputation.\n- Drugs Empire and Scooby Shop are popular drug marketplaces on the dark web.\n- WeTheNorth Market is the top darkweb marketplace in Canada.\n- Zion Pharmaceutical and Vendor Arcadia Marketplace are known for their opioid sales.\n- Fawkes Market and TorNode are directories with a wide range of onion services.\n- Darknet Home Trust Wiki and Hidden Links are platforms for sharing deep web links.\n- The Hidden Wiki and Deepweb.net are comprehensive directories for all kinds of deep web content.\n- AnonHackers and White Rabbit are hacking services providers.\n- PathFinder RAT and Venom Software are remote administration tools.\n- Ransomware and cryptocurrency mixers are popular among cybercriminals.\n- Anonymizers and escrow services are essential for maintaining privacy and security on the dark web.\n- Bitcoin and Monero wallets are widely used for transactions on the dark web.\n\n## Next Steps\n- Investigate further into specific marketplaces and services mentioned in the artifacts.\n- Look into the reputation and user feedback for each marketplace and service.\n- Identify potential law enforcement or threat actor activity within the data.\n- Explore the connections between different marketplaces and services.\n- Investigate the users of these services and their potential intentions."
+}

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-14T17:07:10.748052",
+  "query": "Ransomer",
+  "refined_query": "Refined Query: Ransomware",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\nRansomer\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data.\n\n## Investigation Artifacts\n- No technical artifacts found in the input data.\n\n## Key Insights\n- No insights can be generated from the given input as it is empty.\n\n## Next Steps\n- Investigate further by providing relevant dark web OSINT data to generate context-based technical analysis."
+}

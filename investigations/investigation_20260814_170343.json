@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-14T17:03:43.905850",
+  "query": "email addresses found",
+  "refined_query": "email addresses found",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\n- email addresses found\n\n## Source Links Referenced for Analysis\n- every source link used for the analysis (None provided)\n\n## Investigation Artifacts\n- No artifacts were explicitly mentioned in the input data.\n\n## Key Insights\n- No specific insights were drawn from the input data as no explicit information was provided.\n\n## Next Steps\n- Investigate further by searching for the email addresses on various platforms and forums to gather more context."
+}

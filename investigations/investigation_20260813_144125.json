@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-08-13T14:41:25.538010",
+  "query": "breached users",
+  "refined_query": "breached users data",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "TORLib - Darknet Catalog",
+      "link": "http://torlib7fmhyvfv2k7s77xigdds3rosio6k6bxnn256xmtzlbgyizduqd.onion/"
+    },
+    {
+      "title": "http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion",
+      "link": "http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion/"
+    },
+    {
+      "title": "WhatsApp Account Hack",
+      "link": "http://wahackpal3bxmwjkdkg2bukrba47crgfkkvij7tndomowk2apwkvocyd.onion/"
+    },
+    {
+      "title": "SecTor.City",
+      "link": "http://sector2nyjrxphgrj3cvnueanomz4trvgyxofvu3cexltoxuegtlmzid.onion/"
+    },
+    {
+      "title": "[ h4ck3r ] Hacking Services",
+      "link": "http://h4ck3rxfmolbaue7vnkhzqvuzfo6lb2tlnbxik2wfooucdwtnh3o3xyd.onion/"
+    },
+    {
+      "title": "LeakPeek \u2013 Faq",
+      "link": "http://pshoxn3dbwpx7ccmmgd5mlxypn7nkrnwytylncbn5pgvtbj2zrkmcyid.onion/faq"
+    },
+    {
+      "title": "ProtonMail",
+      "link": "http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/"
+    },
+    {
+      "title": "Pathfinder RAT for Android/iOS",
+      "link": "http://pathfndw4o45qz6f62dyatb44ov3aivwo2ielpzzzlgwcpmvhufd7zyd.onion/"
+    },
+    {
+      "title": "Data of 30M Indian Railways users is up for sale on a dark forum<!-- --> - hckrnws",
+      "link": "http://hn.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/stories/34146425"
+    },
+    {
+      "title": "Bitfinex \u2013 \ud835\udc05\ud835\udc12\ud835\udc0e\ud835\udc02\ud835\udc08\ud835\udc04\ud835\udc13\ud835\udc18 | \ud835\udc05\ud835\udc0b\ud835\udc0e\ud835\udc02\ud835\udc0a\ud835\udc04\ud835\udc11",
+      "link": "http://flock4cvv5i2edtmeoy5o2jiso2uw5qpkep7ra3mdbfg3swvj5ydyxqd.onion?p=150"
+    }
+  ],
+  "summary": "1. Pathfinder RAT: A powerful HTTP RAT FUD backdoor binder and web-based application system surveillance monitor for Android/iOS devices. It allows intercepting MMS/SMS, WhatsApp, Facebook Messenger, Telegram, Chats, watching via camera in real-time, recording calls and audio, remote camera capture, uploading and downloading data, getting real-time geo-location, and more.\n\n2. Hacking Services by h4ck3r: Hire a hacker, security researcher, or an Offensive Security Web Expert (OSWE) with expertise in web technologies, penetration testing, social engineering, and offensive security. The services include web security testing, device security testing, custom malware development, data manipulation, attack methods like SQL injection and DoS attacks, digital forensics, and more.\n\n3. ProtonMail: A secure email service that prioritizes privacy. It offers personal and business plans with features such as encrypted email, VPN, video conferencing, calendar, store and share tools, cloud storage, AI-based security, password manager, two-factor authentication, and a Bitcoin wallet.\n\n4. SecTor.City: An anonymous web browsing platform that protects user privacy by not logging any data or activity. It offers features like Tor-like network routing, HTTPS support, anti-censorship capabilities, and more.\n\n5. LeakPeek: A tool for discovering if your information has been leaked in data breaches. It allows searching breached databases and checking if your email address, phone number, or other personal details have been exposed.\n\n6. Bitfinex: A cryptocurrency exchange platform that offers trading, funding, margin trading, and advanced charting tools. It supports various cryptocurrencies and provides a secure trading environment for users."
+}

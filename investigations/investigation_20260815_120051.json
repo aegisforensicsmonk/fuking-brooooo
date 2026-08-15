@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-15T12:00:51.530440",
+  "query": "test search",
+  "refined_query": "test darkweb",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\ntest search\n\n## Source Links Referenced for Analysis\n- No source links are provided in the input data.\n\n## Investigation Artifacts\n- No technical artifacts, IOCs, or claims are explicitly present in the provided input data.\n\n## Key Insights\n- There is no context-based technical analysis to generate insights from, as there is no data available.\n- The absence of any evidence makes it impossible to provide actionable and data-driven insights.\n\n## Next Steps\n- Investigate more by providing relevant dark web OSINT data for further analysis."
+}

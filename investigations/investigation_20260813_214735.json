@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-13T21:47:35.248680",
+  "query": "ransomware leaks site",
+  "refined_query": "r darkweb leak ransomware",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\n- ransomware leaks site\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data.\n\n## Investigation Artifacts\n- No artifacts found in the input data, as it is an empty string.\n\n## Key Insights\n- No insights can be generated from an empty input.\n- The absence of any dark web OSINT data prevents any actionable intelligence from being derived.\n\n## Next Steps\n- Investigate further by providing relevant and non-empty ransomware leaks site data for a more accurate analysis."
+}

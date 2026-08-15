@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T22:32:44.494321",
+  "query": "databse dump",
+  "refined_query": "database dump",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "\ud83d\udef8 Random Onions",
+      "link": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/random"
+    },
+    {
+      "title": "Elite Hacking Crew - Black Hat Services",
+      "link": "http://ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion/"
+    },
+    {
+      "title": "http://tormartnkvipkpm2ntz6vvra4c3dbyquhe4tgsyrishltqttlmihchyd.onion/",
+      "link": "http://tormartnkvipkpm2ntz6vvra4c3dbyquhe4tgsyrishltqttlmihchyd.onion/"
+    },
+    {
+      "title": "\ud83c\udf63 Fresh Onions",
+      "link": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh"
+    },
+    {
+      "title": "PGPshop  Cvv Fullz Dumps Dropbank Scan Data TOOL",
+      "link": "http://cvv.pgpshopyoohxel4jen5trjfnenou7sodhabd37v2a46hmjhfdxwntjad.onion"
+    },
+    {
+      "title": "Elite Hacking Crew - Black Hat Services",
+      "link": "http://ignzcf4g3m2qmnyilcratixwluag52akbkh6xtyarw2jkrxm7b4g6iqd.onion/"
+    }
+  ],
+  "summary": "## Input Query\ndatabase dump\n\n## Source Links Referenced for Analysis\n- http://ja3u5tq4z6rbsmnme6drofwms2zxeagy6urhhbmufejlibvugn2n2pid.onion/\n- http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh\n- http://tormartnkvipkpm2ntz6vvra4c3dbyquhe4tgsyrishltqttlmihchyd.onion/\n- http://ignzcf4g3m2qmnyilcratixwluag52akbkh6xtyarw2jkrxm7b4g6iqd.onion/\n- http://cvv.pgpshopyoohxel4jen5trjfnenou7sodhabd37v2a46hmjhfdxwntjad.onion\n- http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/random\n\n## Investigation Artifacts\n- Elite Hacking Crew - Black Hat Services: This link is associated with the 'Elite Hacking Crew - Black Hat Services' dark web service. It may contain information or services related to hacking and black hat activities.\n- PGPshop  Cvv Fullz Dumps Dropbank Scan Data TOOL: This link is associated with the 'PGPshop Cvv Fullz Dumps Dropbank Scan Data TOOL' dark web service. It may contain tools or data related to CVV, fullz, dumps, and Dropbank scanning.\n- Fresh Onions - Tor66 - New (fresh) .ONION websites found on :: (darknet)/{darkweb}: This link is associated with the 'Fresh Onions - Tor66' dark web search engine. It may contain newly discovered .ONION websites on the darknet.\n- Random Onions - Tor66 - Random .onion site: This link is associated with the 'Random Onions - Tor66' dark web search engine. It may contain random .onion sites for users to explore.\n\n## Key Insights\n- The database dump contains information on various dark web services and search engines, including hacking services, market links, and onion site listings.\n- The dark web has a wide range of services and information available, from black hat activities to marketplaces selling illicit goods.\n- The Tor network and .ONION domains are commonly used for accessing and operating dark web services.\n\n## Next Steps\n- Investigate the specific dark web services mentioned in the database dump to understand their offerings and potential threats they pose.\n- Analyze the content of the .ONION websites found by the 'Fresh Onions - Tor66' search engine to identify new and potentially unknown dark web services or marketplaces.\n- Explore the random .onion sites listed by the 'Random Onions - Tor66' search engine to discover new and potentially unknown dark web content."
+}

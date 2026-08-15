@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-13T14:21:04.587499",
+  "query": "dark web market links",
+  "refined_query": "market links",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\ndark web market links\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data.\n\n## Investigation Artifacts\n- No technical artifacts found in the input data.\n\n## Key Insights\n- No insights can be generated from the input data as it is empty.\n\n## Next Steps\n- Investigate more by providing relevant dark web market links."
+}

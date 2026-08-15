@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-14T16:18:28.003518",
+  "query": "data breach victims",
+  "refined_query": "data breach victims",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\ndata breach victims\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data.\n\n## Investigation Artifacts\n- No technical artifacts found in the input data, as it is an empty set `{}`.\n\n## Key Insights\n- No insights can be generated from the given input data since there are no artifacts or indicators present.\n\n## Next Steps\n- Investigate more by providing relevant and specific dark web OSINT data to generate actionable insights."
+}

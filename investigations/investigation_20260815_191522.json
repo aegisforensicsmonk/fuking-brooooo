@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T19:15:22.595042",
+  "query": "dark web child abuse images",
+  "refined_query": "child abuse images",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "About",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/about"
+    },
+    {
+      "title": "\u2705 THE DARK MARKET \u2605\u2605\u2605\u2605\u2605",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/t?ad=directory&k=6ftsp"
+    },
+    {
+      "title": "Advertise",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/advertising"
+    },
+    {
+      "title": "Add Link",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/webmaster"
+    },
+    {
+      "title": "Directory",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/directory"
+    },
+    {
+      "title": "Last Added",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/last-added"
+    }
+  ],
+  "summary": "## Input Query\ndark web child abuse images\n\n## Source Links Referenced for Analysis\n- every source link used for the analysis\n\n## Investigation Artifacts\n- each technical artifact with its context (name, email, phone, cryptocurrency address, domain, darkweb market, forum name, threat actor, malware name, TTP, etc.)\n\n## Key Insights\n- each insight as its own bullet \u2014 specific, actionable, and evidence-based\n\n## Next Steps\n- each next investigative step or follow-up search query as its own bullet\n\nUnfortunately, the provided INPUT data does not contain any relevant information or artifacts related to \"dark web child abuse images.\" The data consists of various links and their raw text, but none of them mention or reference child abuse images."
+}

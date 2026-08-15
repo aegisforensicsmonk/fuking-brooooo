@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-15T21:22:21.534967",
+  "query": "ransomware leaked site",
+  "refined_query": "ransomware leak site",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\n- ransomware leaked site\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data\n\n## Investigation Artifacts\n- No artifacts provided in the input data\n\n## Key Insights\n- No insights provided in the input data\n\n## Next Steps\n- No next steps or queries provided in the input data"
+}

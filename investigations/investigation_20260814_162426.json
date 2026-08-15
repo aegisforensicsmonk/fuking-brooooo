@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-14T16:24:26.435095",
+  "query": "notorious breach names",
+  "refined_query": "narrative data breaches",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\nnotorious breach names\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data.\n\n## Investigation Artifacts\n- No technical artifacts found in the input data.\n\n## Key Insights\n- No insights can be generated from the input data as it is empty.\n\n## Next Steps\n- Investigate more by providing relevant dark web OSINT data."
+}

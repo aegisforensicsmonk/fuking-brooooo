@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T21:59:12.773011",
+  "query": "data breach Google Drive",
+  "refined_query": "data breach Google Drive",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "TORLib - Darknet Catalog",
+      "link": "http://torlib7fmhyvfv2k7s77xigdds3rosio6k6bxnn256xmtzlbgyizduqd.onion/"
+    },
+    {
+      "title": "http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion",
+      "link": "http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion/"
+    },
+    {
+      "title": "WhatsApp Account Hack",
+      "link": "http://wahackpal3bxmwjkdkg2bukrba47crgfkkvij7tndomowk2apwkvocyd.onion/"
+    },
+    {
+      "title": "SecTor.City",
+      "link": "http://sector2nyjrxphgrj3cvnueanomz4trvgyxofvu3cexltoxuegtlmzid.onion/"
+    },
+    {
+      "title": "[ h4ck3r ] Hacking Services",
+      "link": "http://h4ck3rxfmolbaue7vnkhzqvuzfo6lb2tlnbxik2wfooucdwtnh3o3xyd.onion/"
+    },
+    {
+      "title": "ProtonMail",
+      "link": "http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/"
+    }
+  ],
+  "summary": "## Input Query\ndata breach Google Drive\n\n## Source Links Referenced for Analysis\n- http://wahackpal3bxmwjkdkg2bukrba47crgfkkvij7tndomowk2apwkvocyd.onion/\n- http://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/\n- http://h4ck3rxfmolbaue7vnkhzqvuzfo6lb2tlnbxik2wfooucdwtnh3o3xyd.onion/\n- http://torlib7fmhyvfv2k7s77xigdds3rosio6k6bxnn256xmtzlbgyizduqd.onion/\n- http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion/\n- http://darkliblbdxo35ojuuuwqis6p7b7shd4ot53rhn67x4yye2i4wxgvbyd.onion/\n- http://torlib3drgjn432b4vud5hmrvshipmaqqdfvghija2gnyi4huspsclad.onion/\n- http://torcatjzij4scrryu6iwehavdx67f2fgjbaguclzqdzqsxwqetkndzqd.onion/\n- http://onixxxxxbddwewhvktd5zf5s7arpkmkv3m7n4zorjxvfxl7zowhvseid.onion/\n- http://torgo2n7k4tibeguymuatg346emwug6sj27hrimzwrpfvpcke5fog5qd.onion/\n- http://torgo2n7k4tibeguymuatg346emwug6sj27hrimzwrpfvpcke5fog5qd.onion/\n- http://torgo2nvijoknen3mmhe33rqc3euc3ojvfoujdscxoydgizfrucaefyd.onion/\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/\n- http://hologramnkycaoyouxst54l64knvmossdapc5k5pmjb5hnrpcodncpad.onion/\n- http://stealth5wfeiuvmtgd2s3m2nx2bb3ywdo2yiklof77xf6emkwjqo53yd.onion/\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/search?query=Onix+%E2%80%94+Darknet+Search+Engine\n- http://hologramnkycaoyouxst54l64knvmossdapc5k5pmjb5hnrpcodncpad.onion/search?query=Onix+%E2%80%94+Darknet+Search+Engine\n- http://stealth5wfeiuvmtgd2s3m2nx2bb3ywdo2yiklof77xf6emkwjqo53yd.onion/search?query=Onix+%E2%80%94+Darknet+Search+Engine\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/search?query=tornet\n- http://hologramnkycaoyouxst54l64knvmossdapc5k5pmjb5hnrpcodncpad.onion/search?query=tornet\n\n## Investigation Artifacts\n- WhatsApp Account Hack\n- ProtonMail\n- [ h4ck3r ] Hacking Services\n- TORLib - Darknet Catalog\n- DarkTube - Darknet video streaming platform\n- TORNET - Darknet search engine\n- WeTheNorth - Darkweb Market in Canada\n- Fawkes - MARKETPLACE. Only UK\n\n## Key Insights\n- The dark web contains various services and platforms related to data breaches, including WhatsApp account hacks and ProtonMail.\n- Hacking services and darknet catalogs are also available on the dark web, indicating the presence of opportunities for malicious activities.\n- DarkTube and TORNET are examples of darknet platforms offering video streaming and search engine functionalities, respectively.\n- WeTheNorth and Fawkes are examples of darkweb markets, with WeTheNorth being specific to Canada.\n\n## Next Steps\n- Investigate the technical details and potential implications of the WhatsApp Account Hack and ProtonMail services.\n- Explore the offerings and potential risks associated with the hacking services and darknet catalogs available on the dark web.\n- Further examine the functionalities and potential use cases for DarkTube and TORNET.\n- Gain a deeper understanding of the scope and offerings of WeTheNorth and Fawkes darkweb markets."
+}

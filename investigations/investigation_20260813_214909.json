@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-13T21:49:09.762410",
+  "query": "leaked data",
+  "refined_query": "data leak",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\nleaked data\n\n## Source Links Referenced for Analysis\n- every source link used for the analysis\n\n## Investigation Artifacts\n- No artifacts found in the provided input.\n\n## Key Insights\n- No insights can be generated from the empty input.\n\n## Next Steps\n- Investigate further by providing relevant dark web OSINT data."
+}

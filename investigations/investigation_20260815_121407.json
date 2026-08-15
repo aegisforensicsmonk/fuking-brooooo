@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-15T12:14:07.721174",
+  "query": "marketplaces with stolen data",
+  "refined_query": "stolen data markets",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\nmarketplaces with stolen data\n\n## Source Links Referenced for Analysis\n- every source link used for the analysis\n\n## Investigation Artifacts\n- No artifacts found in the provided input.\n\n## Key Insights\n- No insights can be generated from the provided input as there are no artifacts present.\n\n## Next Steps\n- Investigate further by searching for more dark web marketplaces that deal with stolen data."
+}

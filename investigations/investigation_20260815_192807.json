@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T19:28:07.364044",
+  "query": "breached data aadhar",
+  "refined_query": "breached aadhar data",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "Data of 30M Indian Railways users is up for sale on a dark forum<!-- --> - hckrnws",
+      "link": "http://hn.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/stories/34146425"
+    },
+    {
+      "title": "hellcat details",
+      "link": "http://ransomlookumjrc6erzqn467lkcu2t5h4enjzfigvsxrrktxicysi2yd.onion/group/hellcat"
+    },
+    {
+      "title": "Have I Been Pwned: Check if your email has been compromised in a data breach",
+      "link": "http://pwneduufdnxe3dvfwvnzlv5rt4xbfaepc6rw5pajekuwqxe32uivkyyd.onion/FAQs"
+    },
+    {
+      "title": "Osyolorz Collective",
+      "link": "http://hackerosyolorz77y7vwj57zobwdeuzydhctz3kuuzr52ylzayvxuqyd.onion"
+    },
+    {
+      "title": "Shirovka Hackers | Online Store",
+      "link": "http://w6uowshig4oqhdehbkyykmzb4h5iiaxndfdfwbj6pfixohe5d7bgsyyd.onion"
+    },
+    {
+      "title": "\ud835\udc05\ud835\udc12\ud835\udc0e\ud835\udc02\ud835\udc08\ud835\udc04\ud835\udc13\ud835\udc18 | \ud835\udc05\ud835\udc0b\ud835\udc0e\ud835\udc02\ud835\udc0a\ud835\udc04\ud835\udc11",
+      "link": "http://flock4cvv5i2edtmeoy5o2jiso2uw5qpkep7ra3mdbfg3swvj5ydyxqd.onion"
+    }
+  ],
+  "summary": "## Input Query\nbreached data aadhar\n\n## Source Links Referenced for Analysis\n- http://w6uowshig4oqhdehbkyykmzb4h5iiaxndfdfwbj6pfixohe5d7bgsyyd.onion\n- http://hn.vernccvbvyi5qhfzyqengccj7lkove6bjot2xhh5kajhwvidqafczrad.onion/stories/34146425\n- http://flock4cvv5i2edtmeoy5o2jiso2uw5qpkep7ra3mdbfg3swvj5ydyxqd.onion\n- http://pwneduufdnxe3dvfwvnzlv5rt4xbfaepc6rw5pajekuwqxe32uivkyyd.onion/FAQs\n- http://ransomlookumjrc6erzqn467lkcu2t5h4enjzfigvsxrrktxicysi2yd.onion/group/hellcat\n\n## Investigation Artifacts\n- Shirovka Hackers | Online Store: This link appears to be an online store for hacking tools or services.\n- Data of 30M Indian Railways users is up for sale on a dark forum: This artifact indicates a significant data breach involving Indian Railways users, with their data now being offered for sale on a dark web forum.\n"
+}

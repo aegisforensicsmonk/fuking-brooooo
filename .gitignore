@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & secrets
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Tor binaries (managed by setup_tor.py)
+tor_bundle/
+tor.tar.gz
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-15T12:12:31.077562",
+  "query": "data breach sites",
+  "refined_query": "data breach site",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\ndata breach sites\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data.\n\n## Investigation Artifacts\n- No technical artifacts found in the input data.\n\n## Key Insights\n- No specific insights can be generated from the input data as it is empty.\n\n## Next Steps\n- Investigate more by providing relevant dark web OSINT data."
+}

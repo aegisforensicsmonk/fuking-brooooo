@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-08-13T21:43:22.309383",
+  "query": "Instagram Data Breach",
+  "refined_query": "Data Leak Instagram",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [],
+  "summary": "## Input Query\nInstagram Data Breach\n\n## Source Links Referenced for Analysis\n- No source links provided in the input data.\n\n## Investigation Artifacts\n- No technical artifacts, IOCs, or claims explicitly present in the provided input data.\n\n## Key Insights\n- No specific insights can be generated from the given input as there is no data available to analyze.\n\n## Next Steps\n- Investigate further by providing relevant source links and detailed dark web OSINT data for analysis."
+}

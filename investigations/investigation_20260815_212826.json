@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T21:28:26.043158",
+  "query": "dark web ransomware markets",
+  "refined_query": "r dark web markets ransomware",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "OnionLand Web Hosting",
+      "link": "http://dwebkjkovsjobzrb45dz6prnlifnapiyp2dba33vcmcsaikr2re4d5qd.onion/"
+    },
+    {
+      "title": "TORLib - Darknet Catalog",
+      "link": "http://torlib7fmhyvfv2k7s77xigdds3rosio6k6bxnn256xmtzlbgyizduqd.onion/"
+    },
+    {
+      "title": "I2P Search",
+      "link": "http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion/"
+    },
+    {
+      "title": "DarkTube",
+      "link": "http://darktube7e7eekfzjv6yplmxek6vkoonyijqhly6ttsmcrzoillgqyad.onion/"
+    },
+    {
+      "title": "WeTheNorth",
+      "link": "http://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.onion/"
+    },
+    {
+      "title": "Fawkes",
+      "link": "http://fawkesgrixgdi6mepgocuntt34o73okuasaxmuqyu4miskuhhzp2dgad.onion/"
+    }
+  ],
+  "summary": "## Input Query\ndark web ransomware markets\n\n## Source Links Referenced for Analysis\n- http://i2poulge3qyo33q4uazlda367okpkczn4rno2vjfetawoghciae6ygad.onion/ (I2P Search)\n- http://fawkesgrixgdi6mepgocuntt34o73okuasaxmuqyu4miskuhhzp2dgad.onion/ (Fawkes)\n- http://torlib7fmhyvfv2k7s77xigdds3rosio6k6bxnn256xmtzlbgyizduqd.onion/ (TORLib - Darknet Catalog)\n- http://dwebkjkovsjobzrb45dz6prnlifnapiyp2dba33vcmcsaikr2re4d5qd.onion/ (OnionLand Web Hosting)\n- http://hn2paw7zaahbikbejiv6h22zwtijlam65y2c77xj2ypbilm2xs4bnbid.onion/ (WeTheNorth)\n- http://darktube7e7eekfzjv6yplmxek6vkoonyijqhly6ttsmcrzoillgqyad.onion/ (DarkTube)\n\n## Investigation Artifacts\n- I2P Search: This search engine allows users to find and access hidden services on the Tor network. It could be used to find ransomware markets by searching for specific keywords or phrases related to ransomware.\n- Fawkes: A tool that enables users to access .onion sites using the Tor network. It could be used to access ransomware markets that are not easily discoverable through regular search engines.\n- TORLib - Darknet Catalog: A library of darknet sites that can be accessed using the Tor network. It could be used to find and access ransomware markets that are hidden within the darknet.\n- OnionLand Web Hosting: A service that provides hosting for .onion sites. It could be used to host ransomware markets, making them accessible to users on the darknet.\n- WeTheNorth: A forum or community where users can discuss various topics, including ransomware and how to access ransomware markets on the darknet.\n- DarkTube: A search engine that focuses on the darknet, allowing users to find and access hidden services. It could be used to find and access ransomware markets on the darknet.\n\n## Key Insights\n- Ransomware markets are prevalent on the darknet, with several known marketplaces and forums available to users.\n- Accessing these markets and forums requires specific tools and knowledge, such as using the Tor network and accessing .onion sites.\n- The use of search engines like I2P Search and DarkTube can help users find and access these hidden services.\n- Hosting services like OnionLand Web Hosting can facilitate the creation and maintenance of ransomware markets on the darknet.\n- User communities like WeTheNorth provide a platform for discussing and sharing information about accessing and using ransomware markets.\n\n## Next Steps\n- Investigate the specific ransomware markets and forums identified in the source links, focusing on their content, offerings, and user activity.\n- Analyze the technical infrastructure of these markets, including their hosting services, search engines, and access tools.\n- Identify potential indicators of compromise (IOCs) within the data, such as email addresses, phone numbers, cryptocurrency addresses, or specific domain names.\n- Monitor and track the activity within these markets and forums to identify potential threat actors and their tactics, techniques, and procedures (TTPs).\n- Collaborate with other cybersecurity professionals to share intelligence and develop strategies to mitigate the risks posed by ransomware markets on the darknet."
+}

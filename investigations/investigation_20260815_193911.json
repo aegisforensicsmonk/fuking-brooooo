@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T19:39:11.411787",
+  "query": "breached data",
+  "refined_query": "data breach",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "\ud83d\udef8 Random Onions",
+      "link": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/random"
+    },
+    {
+      "title": "Have I Been Pwned: Check if your email has been compromised in a data breach",
+      "link": "http://pwneduufdnxe3dvfwvnzlv5rt4xbfaepc6rw5pajekuwqxe32uivkyyd.onion/"
+    },
+    {
+      "title": "Have I Been Pwned: Check if your email has been compromised in a data breach",
+      "link": "http://22222226c7t5g2spnsowlm7ruoq6y7oyfeuk7sikao2h4ceir6pt4vid.onion/"
+    },
+    {
+      "title": "Have I Been Pwned: Check if your email has been compromised in a data breach",
+      "link": "http://22222226nbvy3b4w73gg5h3g2dnlltshvua3cskxe2ynzvgcplx725ad.onion/"
+    },
+    {
+      "title": "WalletWatch",
+      "link": "http://wdo4k4wrpnqcxft7xvkysjv5z3gykw2pppuq6zwgohr6hjqdhfpu4lqd.onion/"
+    },
+    {
+      "title": "Data Leak",
+      "link": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion"
+    }
+  ],
+  "summary": "## Input Query\nbreached data\n\n## Source Links Referenced for Analysis\n- http://22222226nbvy3b4w73gg5h3g2dnlltshvua3cskxe2ynzvgcplx725ad.onion/\n- http://wdo4k4wrpnqcxft7xvkysjv5z3gykw2pppuq6zwgohr6hjqdhfpu4lqd.onion/\n- http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion/\n- http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/random\n- http://pwneduufdnxe3dvfwvnzlv5rt4xbfaepc6rw5pajekuwqxe32uivkyyd.onion/\n- http://22222226c7t5g2spnsowlm7ruoq6y7oyfeuk7sikao2h4ceir6pt4vid.onion/\n\n## Investigation Artifacts\n- Have I Been Pwned: Check if your email has been compromised in a data breach (multiple instances found)\n- WalletWatch\n- Data Leak\n"
+}

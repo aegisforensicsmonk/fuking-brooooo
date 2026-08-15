@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-08-15T19:10:18.324845",
+  "query": "sex toucher",
+  "refined_query": "toucher sex",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion",
+      "link": "http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/"
+    },
+    {
+      "title": "\ud83d\udef8 Random Onions",
+      "link": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/random"
+    },
+    {
+      "title": "Trust Wiki",
+      "link": "http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/"
+    },
+    {
+      "title": "TorBuy | EscrowMarket #1 in Tor",
+      "link": "http://torbuyxpe6auueywlctu4wz6ur3o5n2meybt6tyi4rmeudtjsysayqyd.onion/?utm_source=tor66"
+    },
+    {
+      "title": "\ud83c\udf63 Fresh Onions",
+      "link": "http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh"
+    },
+    {
+      "title": "About",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/about"
+    }
+  ],
+  "summary": "## Input Query\n- sex toucher\n\n## Source Links Referenced for Analysis\n- http://torbuyxpe6auueywlctu4wz6ur3o5n2meybt6tyi4rmeudtjsysayqyd.onion/?utm_source=tor66\n- http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/\n- http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/about\n- http://amndir7jfxnt5glt2tsevwjlnwdvknttxygubw27ulq5c433en75piyd.onion/\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/\n- http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/\n- http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/random\n\n## Investigation Artifacts\n- TorBuy | EscrowMarket #1 in Tor\n- Trust Wiki - Trust wiki Sections TRUST NEWS All categories Search engines Marketplaces Hacking Anonymous services Buy Cryptocurrency E-mail services Forums Hosting Scam List Social Networks Torrent / Media VPN Work for you $$$ Add link Advertising Donation Report us Sections TRUST NEWS All categories Search engines Marketplaces Hacking Anonymous services Buy Cryptocurrency E-mail services Forums Hosting Scam List Social Networks Torrent / Media VPN Work for you $$$ Add link Advertising Donation Report us Search engines Tordex One of the best search engines. Everything that interests you can be found safely and anonymously. Our realm Quite a young search engine. An excellent selection of sites. Tor66 Search and Find .onion websites... Ahmia Ahmia searches hidden services on the Tor network. Abuse material is not allowed on Ahmia. Bobby A new and high-quality search service. The site database is constantly updated. OnionLand Convenient and fast search service. Torch The oldest search service in the world is Tor. Torch by Tordex An updated and more stable version of Torch. Excavator One of the first secure search engines of the Onion network. TorSearch Fresh search engine and up-to-date links. Marketplaces TorBuy Safe Tor Marketplace. Light Money One of the most reliable and fastest Discount Services for the sale of Prepaid Cards, Money Transfers and Gift Cards on the Tor network. Torks Modern carding team. Cards, transfers, accounts. Robot Money Automated website for money transfers and card data. Cash2Tor Reliable and fast online store in the world of carding. Goldman Financial Services Financial service provides paid services of fast money transfers. Quick Money A community of anonymous financial hackers. All requests are handled by an operator. There is an option to track order. Richi The most friendly community of financial services in Darknet. Trust Market A fresh market with a wide range of destinations. Carding. Electronics. Hacker. Some sellers f...\n\n## Key Insights\n- TorBuy is the EscrowMarket #1 in Tor, indicating its prominence and trustworthiness within the darknet marketplace ecosystem.\n- Trust Wiki offers a comprehensive directory of onion services, including marketplaces, hacking services, and anonymous search engines.\n- Ahmia is a search engine that indexes hidden services on the Tor network, but does not allow abusive material.\n- Tordex is one of the best search engines in the Tor network, providing a safe and anonymous browsing experience.\n- Excavator is one of the first secure search engines on the Onion network, showcasing the evolution of search services in the dark web.\n\n## Next Steps\n- Investigate further into the specific services and listings mentioned in the artifacts, such as TorBuy, Trust Wiki, Ahmia, Tordex, and Excavator.\n- Explore the different categories of services available on the dark web, including marketplaces, hacking services, and financial services.\n- Look into the technical aspects of the search engines and marketplaces, such as their architecture, security measures, and data privacy practices."
+}

@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-08-13T22:11:55.903488",
+  "query": "data leaks",
+  "refined_query": "data breaches",
+  "model": "dolphin-llama3:8b",
+  "preset": "\ud83d\udd0d Dark Web Threat Intel",
+  "sources": [
+    {
+      "title": "About",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/about"
+    },
+    {
+      "title": "TORi SEARCH ENGINE",
+      "link": "http://torlinknyvg6uxm4azpillksp5griko2i2ir54rymttqrnx2gsnss2id.onion"
+    },
+    {
+      "title": "Advertise",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/advertising"
+    },
+    {
+      "title": "Add Link",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/webmaster"
+    },
+    {
+      "title": "Directory",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/directory"
+    },
+    {
+      "title": "Last Added",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/last-added"
+    },
+    {
+      "title": "Contact",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/contact"
+    },
+    {
+      "title": "BittenForums",
+      "link": "http://bitten2oqk7hgmmphkiqvdtkzk5yqbm3a3g3ykzenar6oqlelhqbmjad.onion"
+    },
+    {
+      "title": "\u2705 THE DARK MARKET \u2605\u2605\u2605\u2605\u2605",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/t?ad=directory&k=6ftsp"
+    },
+    {
+      "title": "SECRET BITCOIN for sale",
+      "link": "http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/t?ad=directory&k=ab1a7"
+    }
+  ],
+  "summary": "The given text appears to be a combination of different web addresses and descriptions related to darknet services, marketplaces, directories, and advertising. Some of the mentioned services include:\n\n- Amnesia Search Engine: A directory that lists various marketplaces, directories, hacking services, and other offerings in the darknet.\n- Arcadia Marketplace: A secure and anonymous marketplace with verified vendors offering unique products for purchase.\n- The Dark Market: A secure and anonymous marketplace with a multisig escrow system, supporting transactions involving drugs, hacking services, documents, counterfeits, and more.\n- Stalker: A professional-grade remote access tool (RAT) built in Python, designed for red team operations, security research, and advanced penetration testing.\n\nThese web addresses are associated with these services:\n\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion\n- http://arcadia3dnfrms2qdww4wu6kc7q5ddydxzxszphknah2ecere74tdsad.onion\n- http://dark3xolguutzr2cn5twjyu6c3db2z3ai3aqyqascml5cdrleh3s2hqd.onion\n- http://tornode3tnrtzgqwd3vmxdumucddqfd6zk7icu4wzdwxo5c3zn2xqfqd.onion\n- http://bitten2oqk7hgmmphkiqvdtkzk5yqbm3a3g3ykzenar6oqlelhqbmjad.onion\n- http://torlinknyvg6uxm4azpillksp5griko2i2ir54rymttqrnx2gsnss2id.onion\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/t?ad=directory&k=6ftsp\n- http://amnesia7u5odx5xbwtpnqk3edybgud5bmiagu75bnqx2crntw5kry7ad.onion/t?ad=directory&k=ab1a7"
+}
